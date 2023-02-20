@@ -1,0 +1,16 @@
+{
+  "UserList": "User list",
+  "AddUser": "Add user",
+  "EditUser": "Edit user",
+  "FullName": "Full name",
+  "Action": "Action",
+  "Search": "Search for users...",
+  "SureToDelete": "Are you sure you want to delete this user?",
+  "Yes": "Yes",
+  "No": "No",
+  "FirstName": "First name",
+  "LastName": "Last name",
+  "Avatar": "Avatar",
+  "Update": "Update Details",
+  "ChangePhoto": "Change photo"
+}
